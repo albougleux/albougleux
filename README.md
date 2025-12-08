@@ -90,14 +90,21 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 ## 🎛️ Flashy GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=albougleux&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albougleux&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albougleux&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albougleux&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="900" src="https://streak-stats.demolab.com?user=albougleux&theme=radical&hide_border=true" />
 </p>
 
+---
+
+# 🎯 **Current Goals**
+- Building stronger quality engineering cultures  
+- Mastering AI-assisted QA strategies  
+- Helping teams ship better software faster
+- Develop a game!
 
 ---
 
@@ -110,16 +117,6 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-# 🎯 **Current Goals**
-- Building stronger quality engineering cultures  
-- Mastering AI-assisted QA strategies  
-- Helping teams ship better software faster
-- Develop a game!
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=24&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Feel+free+to+explore!+%F0%9F%9A%80" />
