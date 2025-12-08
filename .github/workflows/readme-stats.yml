@@ -1,0 +1,17 @@
+name: Refresh GitHub Stats Cache
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # Every 6 hours
+  workflow_dispatch:         # Allow manual triggering
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger GitHub Stats Cache
+        env:
+          GH_TOKEN: ${{ secrets.README_STATS_TOKEN }}
+        run: |
+          curl -H "Authorization: Bearer $GH_TOKEN" \
+          "https://api.github.com/users/${{ github.repository_owner }}"
