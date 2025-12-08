@@ -122,6 +122,9 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=24&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Feel+free+to+explore!+%F0%9F%9A%80" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Made%20with-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="18" />
+</p>
 
 <!--
 **albougleux/albougleux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
