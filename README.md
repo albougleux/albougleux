@@ -87,7 +87,7 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 
 ---
 
-## 🎛️ Flashy GitHub Stats (stable themes)
+## 🎛️ Flashy GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=albougleux&show_icons=true&theme=radical&hide_border=true" />
@@ -95,7 +95,7 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 </p>
 
 <p align="center">
-  <img width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=albougleux&theme=radical&hide_border=true" />
+  <img width="900" src="https://streak-stats.demolab.com?user=albougleux&theme=radical&hide_border=true" />
 </p>
 
 
