@@ -79,8 +79,6 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 
 ---
 
-# 🌌 Aesthetic Separator
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -90,8 +88,8 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 ## 🎛️ Flashy GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albougleux&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albougleux&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://stats.dooboo.dev/api?username=albougleux&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://stats.dooboo.dev/api/top-langs?username=albougleux&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
