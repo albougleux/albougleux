@@ -1,8 +1,8 @@
-<!-- 🌟 FLASHY HEADER BANNER -->
+<!-- 🌟 FLASHY HEADER BANNER
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00E7FF&size=32&center=true&vCenter=true&width=900&lines=Alberto+Bougleux;QA+Engineer+%7C+SDET+%F0%9F%A7%A9" />
 </p>
-
+-->
 ---
 
 <!-- BADGES -->
@@ -25,7 +25,9 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 - Designing automation that *actually improves the developer experience*  
 - Turning quality into a shared team responsibility  
 - Investigating risks early using collaborative requirement refinement  
-- Building quality frameworks aligned with CI/CD pipelines  
+- Building quality frameworks aligned with CI/CD pipelines
+- Data analytics
+- Game development!
 
 ---
 
@@ -60,8 +62,8 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 
   <!-- QA/Quality -->
   <img src="https://img.shields.io/badge/Automation-8A2BE2?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploratory_Testing-ff009d?style=for-the-badge&logo=compass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shift--Left_Testing-ff761a?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual_Testing-ff009d?style=for-the-badge&logo=compass&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/Shift--Left_Testing-ff761a?style=for-the-badge&logo=git&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Quality_Engineering-00c3ff?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </p>
@@ -69,12 +71,15 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 ## 🎓 Wants to Lean | Currently Learning
 
 <p align="center">
-  <!-- Unreal Engine -->
-  <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <!-- C++ -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <!-- Lua -->
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  
+  <br />
+  
+  <!-- Unreal Engine -->
+  <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
 
 ---
@@ -83,8 +88,7 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
+<!--
 ## 🎛️ Flashy GitHub Stats
 
 <p align="center">
@@ -97,12 +101,13 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 </p>
 
 ---
-
+<!--
 # 🎯 **Current Goals**
 - Building stronger quality engineering cultures  
 - Mastering AI-assisted QA strategies  
 - Helping teams ship better software faster
 - Develop a game!
+-->
 
 ---
 
@@ -115,11 +120,11 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=24&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Feel+free+to+explore!+%F0%9F%9A%80" />
 </p>
-
+-->
 <p align="center">
 <img src="https://img.shields.io/badge/Made%20with-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="18" />
 </p>
