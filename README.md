@@ -42,18 +42,24 @@ I combine **shift-left**, **smart automation**, and **deep exploratory analysis*
 </thead>
 <tbody>
 <tr>
-<td align="center" valign="middle">🚀 <strong><a href="https://github.com/albougleux/api-automation-framework-vitest-cypress">api-automation-framework-vitest-cypress</a></strong></td>
-<td align="center" valign="middle"><em>API Testing Architecture showcase using <strong>Vitest</strong> and <strong>Cypress</strong> to demonstrate scalable quality engineering patterns for API automation.</em></td>
+<td align="center" valign="middle">✨ <strong><a href="https://github.com/albougleux/aiops-microservices-lab">aiops-microservices-lab</a></strong></td>
+<td align="center" valign="middle"><em>Comparative study of two <strong>AIOps agent architectures</strong> for automated fault diagnosis in microservices: <strong>Event-Driven (reactive) vs. Continuous Polling (proactive)</strong>.<br /><br />
+Both agents use <strong>Google Gemini 2.5 Flash</strong> to perform <strong>Root Cause Analysis (RCA)</strong> on Docker container logs and deliver diagnostic reports via Discord (ChatOps).</em></td>
 <td align="center" valign="middle"><br/><img src="https://img.shields.io/badge/Showcase-Active-238636?style=flat-square&logo=github&logoColor=white"/><br/><br/></td>
 </tr>
 <tr>
-<td align="center" valign="middle">⚠️ <strong><a href="https://github.com/albougleux/project_flutter">project_flutter</a></strong></td>
-<td align="center" valign="middle"><em><strong>OUTDATED - </strong>Legacy project preserved for historical purposes. It does not reflect my current expertise.</em></td>
+<td align="center" valign="middle">⏸️ <strong><a href="https://github.com/albougleux/api-automation-framework-vitest-cypress">api-automation-framework-vitest-cypress</a></strong></td>
+<td align="center" valign="middle"><em>API Testing Architecture showcase using <strong>Vitest</strong> and <strong>Cypress</strong> to demonstrate scalable quality engineering patterns for API automation.</em></td>
+<td align="center" valign="middle"><br/><img src="https://img.shields.io/badge/Showcase-Idle-d29922?style=flat-square&logo=github&logoColor=white"/><br/><br/></td>
+</tr>
+<tr>
+<td align="center" valign="middle">⛔ <strong><a href="https://github.com/albougleux/project_flutter">project_flutter</a></strong></td>
+<td align="center" valign="middle"><em><strong>OUTDATED - </strong>Legacy project preserved for historical purposes. It does not reflect current expertise.</em></td>
 <td align="center" valign="middle"><br/><img src="https://img.shields.io/badge/Archive-Deprecated-da3633?style=flat-square&logo=github&logoColor=white"/><br/><br/></td>
 </tr>
 <tr>
-<td align="center" valign="middle">⚠️ <strong><a href="https://github.com/albougleux/project_cypress">project_cypress</a></strong></td>
-<td align="center" valign="middle"><em><strong>OUTDATED - </strong>Legacy project preserved for historical purposes. It does not reflect my current expertise.</em></td>
+<td align="center" valign="middle">⛔ <strong><a href="https://github.com/albougleux/project_cypress">project_cypress</a></strong></td>
+<td align="center" valign="middle"><em><strong>OUTDATED - </strong>Legacy project preserved for historical purposes. It does not reflect current expertise.</em></td>
 <td align="center" valign="middle"><br/><img src="https://img.shields.io/badge/Archive-Deprecated-da3633?style=flat-square&logo=github&logoColor=white"/><br/><br/></td>
 </tr>
 </tbody>
